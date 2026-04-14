@@ -1,0 +1,17 @@
+{
+  "name": "banco-web-tests-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@cucumber/cucumber": "^12.8.0",
+    "selenium-webdriver": "^4.43.0"
+  }
+}
